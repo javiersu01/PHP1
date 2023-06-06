@@ -1,1 +1,1 @@
-# PHP1
+# PHP1 En este ejercicio relizarme POO sobre PHP
